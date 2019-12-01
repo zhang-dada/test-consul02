@@ -1,0 +1,3 @@
+# Project exclude paths
+/test-consul01/target/
+/test-consul-02/target/
